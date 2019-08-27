@@ -52,4 +52,4 @@ In short, this means you are free to fork this repository and do anything with i
  1. Publish your changes under the same license, so as to ensure the software remains free.
  2. Use a name and logo substantially different than "Bitsquare" and the Bitsquare logo seen here. This allows for competition without confusion.
 
-See [LICENSE](LICENSE) for complete details.
+See [LICENSE](LICENSE) for complete details. 
